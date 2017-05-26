@@ -10,4 +10,4 @@ Skills: Micorsoft Dot framework through Visual Studio, API call from the Public 
 Method:
  1. User ask currency words. ex) NZD, KRW.... 
  2. Bot will reply the answer correspoding to the input. 
- * There are more functions such as asking detail or homepage where the api from. 
+* There are more functions such as asking detail or homepage where the api from. 
